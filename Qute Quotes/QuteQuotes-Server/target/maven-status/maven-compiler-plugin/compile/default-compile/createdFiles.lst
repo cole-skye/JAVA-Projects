@@ -1,0 +1,5 @@
+TestDatabase.class
+QuoteServer.class
+QuoteDB.class
+QuoteApiHandler.class
+Quote.class
